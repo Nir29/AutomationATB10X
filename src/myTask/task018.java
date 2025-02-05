@@ -12,5 +12,6 @@ public class task018 {
         } else if (num%11==0) {
             System.out.println(num+" is divisible by 11 ");
         }
+        sc.close();
     }
 }
