@@ -9,7 +9,7 @@ public class interviewQ {
         int j = sc.nextInt();
 
         boolean ans=result(i,j);
-        System.out.println(result(i,j));
+        System.out.println(ans);
     }
 
     static boolean result(int i, int j) {
